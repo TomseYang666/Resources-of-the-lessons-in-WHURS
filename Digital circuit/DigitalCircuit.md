@@ -79,7 +79,7 @@
 
    （1）十进制代码：8421BCD码、余3码等，其中余3码相当于在8421的基础上加0011，余3循环码相当于格雷码0010——1010
 
-   ![image-20211124193720654](E:\projects\The-resources-of-the-lessons-in-WHU-RS\Digital circuit\picture\image-20211124193720654.png)
+   ![image-20211124193720654](picture\image-20211124193720654.png)
 
    （2）格雷码
 
@@ -87,7 +87,7 @@
               2.编码顺序依次变化，按表中顺序变化时，相邻代码只有一位改变状态。
    应用：减少过渡噪声
 
-   ![image-20211124193824349](E:\projects\The-resources-of-the-lessons-in-WHU-RS\Digital circuit\picture\image-20211124193824349.png)
+   ![image-20211124193824349](picture\image-20211124193824349.png)
 
    （3）美国信息交换标准代码（ASCⅡ）
 
@@ -111,14 +111,14 @@
    （1）与（AND）：决定事物结果的全部条件同时具备时，结果才会发生。
    $Y=A\quad AND \quad B=A\&B=A·B=AB$
    
-   <img src="E:\projects\The-resources-of-the-lessons-in-WHU-RS\Digital circuit\picture\image-20211124195554843.png" alt="image-20211124195554843" style="zoom:67%;" />
+   <img src="picture\image-20211124195554843.png" alt="image-20211124195554843" style="zoom:67%;" />
    
    以A=1表示开关A合上，A=0表示开关A断开；以Y=1表示灯亮，Y=0表示灯不亮；
    
    (2)或（OR）：决定事物结果的全部条件之一具备，结果就会发生。
    $Y= A  \quad OR \quad B  =A|B= A+B$
    
-   <img src="E:\projects\The-resources-of-the-lessons-in-WHU-RS\Digital circuit\picture\image-20211124195749068.png" alt="image-20211124195749068" style="zoom:67%;" />
+   <img src="picture\image-20211124195749068.png" alt="image-20211124195749068" style="zoom:67%;" />
    
    以A=1表示开关A合上，A=0表示开关A断开；以Y=1表示灯亮，Y=0表示灯不亮.
    
@@ -126,7 +126,7 @@
    
    $ Y=A^{’}=NOT\quad A=\bar{A}$
    
-   <img src="E:\projects\The-resources-of-the-lessons-in-WHU-RS\Digital circuit\picture\image-20211124203424281.png" alt="image-20211124203424281" style="zoom:67%;" />
+   <img src="picture\image-20211124203424281.png" alt="image-20211124203424281" style="zoom:67%;" />
    
    以A=1表示开关A合上，A=0表示开关A断开；以Y=1表示灯亮，Y=0表示灯不亮。
    
@@ -138,7 +138,7 @@
    
    （2）或非$\quad Y=(A+B)'$
    
-   <img src="E:\projects\The-resources-of-the-lessons-in-WHU-RS\Digital circuit\picture\image-20211124203749517.png" alt="image-20211124203749517" style="zoom:67%;" />
+   <img src="picture\image-20211124203749517.png" alt="image-20211124203749517" style="zoom:67%;" />
    
    （3）与或非$\quad Y=(A\cdot B+C\cdot D)'$
    
